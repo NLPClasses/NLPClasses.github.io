@@ -57,8 +57,8 @@
  <li> <a href="https://openreview.net/forum?id=qCx3yagIav-"> .PAPER1  </a></li>
  <li> <a href="https://openreview.net/forum?id=INp6sF8s3UE">.PAPER1  </a> </li>
  <li> <a href="https://openreview.net/forum?id=lSgh1cRVNv">. PAPER1 </a> </li>
-<li> <link href="https://openreview.net/forum?id=Wt08R4-XG6">. PAPER1 </a> </li>
-<li> <link href="https://openreview.net/forum?id=-kfBj5YuB9r">. PAPER1 </a> </li>
+<li> <a href="https://openreview.net/forum?id=Wt08R4-XG6">. PAPER1 </a> </li>
+<li> <a href="https://openreview.net/forum?id=-kfBj5YuB9r">. PAPER1 </a> </li>
     
 
 </ul>
