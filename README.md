@@ -29,8 +29,8 @@
   <li> <a href="https://openreview.net/forum?id=5-XDgdsmJX"> . PAPER1 </a>  </li>
   <li> <a href="https://openreview.net/forum?id=iNFq-zDft6"> . PAPER1 </a> </li>
  <li> <a href="https://openreview.net/forum?id=wWUtjx59Wx"> .  PAPER1</a></li>
-  <li> <a href="https://openreview.net/forum?id=F1dor37n9KY">.PAPER1 </a> <li>
-  <li> <a href="https://openreview.net/forum?id=xw3jLmfMKhC">.PAPER1  </a> </li>
+  <li> <a href="https://openreview.net/forum?id=F1dor37n9KY"> .PAPER1 </a> </li>
+  <li> <a href="https://openreview.net/forum?id=xw3jLmfMKhC"> .PAPER1  </a> </li>
   <li> <a href="https://openreview.net/forum?id=lpl_kK_allL">. PAPER1 </a> </li>
   <li> <a href="https://openreview.net/forum?id=FhNHCu_p3s3"> .PAPER1  </a></li>
   <li> <a href="https://openreview.net/forum?id=b-2xX-oOmUn">. PAPER1 </a> </li>
