@@ -4,9 +4,9 @@
 <body>
 <h1>List of openreview paper published for our NLP Classes:</h1>
 
-<ul>
 
-  <li> <a href="https://openreview.net/forum?id=MiIceDjONq" > PAPER1 </a> </li>
+<span style="color:white">
+  <li> <a href="https://openreview.net/forum?id=MiIceDjONq" >  toto </a> </li>
   <li> <a href="https://openreview.net/forum?id=5PZvRVh-JSG" > PAPER1 </a> </li>
   <li> <a href="https://openreview.net/forum?id=ApZnGT5QCjL" > PAPER1  </a> </li>
   <li> <a href="https://openreview.net/forum?id=Nbaf-YCVRea" >. PAPER1 </a> </li>
@@ -60,6 +60,6 @@
 <li> <a href="https://openreview.net/forum?id=Wt08R4-XG6">. PAPER1 </a> </li>
 <li> <a href="https://openreview.net/forum?id=-kfBj5YuB9r">. PAPER1 </a> </li>
     
+</span>
 
-</ul>
 </body>
